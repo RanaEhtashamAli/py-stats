@@ -1,6 +1,6 @@
 # py-stats
 
-[![PyPI version](https://badge.fury.io/py/py-stats.svg)](https://badge.fury.io/py/py-stats)
+[![PyPI version](https://badge.fury.io/py/python-stats.svg)](https://badge.fury.io/py/python-stats)
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
@@ -26,7 +26,7 @@ A pure-Python module providing comprehensive statistics functions similar to tho
 
 ## 🚀 Quick Links
 
-- **📦 PyPI Package**: [py-stats on PyPI](https://pypi.org/project/py-stats/)
+- **📦 PyPI Package**: [python-stats on PyPI](https://pypi.org/project/python-stats/)
 - **🐙 GitHub Repository**: [RanaEhtashamAli/py-stats](https://github.com/RanaEhtashamAli/py-stats)
 - **📖 Documentation**: [README](https://github.com/RanaEhtashamAli/py-stats#readme)
 - **🐛 Issues**: [GitHub Issues](https://github.com/RanaEhtashamAli/py-stats/issues)
@@ -80,7 +80,7 @@ A pure-Python module providing comprehensive statistics functions similar to tho
 
 ### From PyPI (Recommended)
 ```bash
-pip install py-stats
+pip install python-stats
 ```
 
 ### From GitHub
@@ -262,7 +262,7 @@ The only requirement is that the original license and copyright notice must be i
 
 ## Contributing
 
-We welcome contributions to make py-stats even better! Here's how you can help:
+We welcome contributions to make python-stats even better! Here's how you can help:
 
 ### 🤝 How to Contribute
 

@@ -46,10 +46,10 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/py-stats"
-Documentation = "https://github.com/yourusername/py-stats#readme"
-Repository = "https://github.com/yourusername/py-stats.git"
-"Bug Tracker" = "https://github.com/yourusername/py-stats/issues"
+Homepage = "https://github.com/RanaEhtashamAli/py-stats"
+Documentation = "https://github.com/RanaEhtashamAli/py-stats#readme"
+Repository = "https://github.com/RanaEhtashamAli/py-stats.git"
+"Bug Tracker" = "https://github.com/RanaEhtashamAli/py-stats/issues"
 
 [tool.setuptools.packages.find]
 where = ["."]

@@ -11,7 +11,7 @@ setup(
     description="A pure-Python module providing comprehensive statistics functions",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/py-stats",
+    url="https://github.com/RanaEhtashamAli/py-stats",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",

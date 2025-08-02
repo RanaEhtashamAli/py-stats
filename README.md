@@ -1,11 +1,12 @@
 # py-stats
 
+[![PyPI version](https://badge.fury.io/py/py-stats.svg)](https://badge.fury.io/py/py-stats)
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-[![Status: Complete](https://img.shields.io/badge/status-complete-brightgreen.svg)](https://github.com/yourusername/py-stats)
-[![Functions: 60+](https://img.shields.io/badge/functions-60+-orange.svg)](https://github.com/yourusername/py-stats)
-[![Educational](https://img.shields.io/badge/educational-focus-blue.svg)](https://github.com/yourusername/py-stats)
+[![Status: Complete](https://img.shields.io/badge/status-complete-brightgreen.svg)](https://github.com/RanaEhtashamAli/py-stats)
+[![Functions: 60+](https://img.shields.io/badge/functions-60+-orange.svg)](https://github.com/RanaEhtashamAli/py-stats)
+[![Educational](https://img.shields.io/badge/educational-focus-blue.svg)](https://github.com/RanaEhtashamAli/py-stats)
 
 A pure-Python module providing comprehensive statistics functions similar to those found on scientific calculators. This package offers over 60 statistics functions for both univariate and multivariate analysis.
 
@@ -21,10 +22,20 @@ A pure-Python module providing comprehensive statistics functions similar to tho
 - **Documentation**: Complete with examples and mathematical formulas
 - **Educational Value**: High-quality learning resource
 - **License**: MIT License (permissive and open)
+- **Repository**: [GitHub](https://github.com/RanaEhtashamAli/py-stats)
+
+## 🚀 Quick Links
+
+- **📦 PyPI Package**: [py-stats on PyPI](https://pypi.org/project/py-stats/)
+- **🐙 GitHub Repository**: [RanaEhtashamAli/py-stats](https://github.com/RanaEhtashamAli/py-stats)
+- **📖 Documentation**: [README](https://github.com/RanaEhtashamAli/py-stats#readme)
+- **🐛 Issues**: [GitHub Issues](https://github.com/RanaEhtashamAli/py-stats/issues)
+- **💬 Discussions**: [GitHub Discussions](https://github.com/RanaEhtashamAli/py-stats/discussions)
 
 ## 📋 Table of Contents
 
 - [Project Status](#-project-status)
+- [Quick Links](#-quick-links)
 - [Features](#features)
 - [Installation](#installation)
 - [Quick Start](#quick-start)
@@ -67,8 +78,21 @@ A pure-Python module providing comprehensive statistics functions similar to tho
 
 ## Installation
 
+### From PyPI (Recommended)
 ```bash
 pip install py-stats
+```
+
+### From GitHub
+```bash
+pip install git+https://github.com/RanaEhtashamAli/py-stats.git
+```
+
+### Development Installation
+```bash
+git clone https://github.com/RanaEhtashamAli/py-stats.git
+cd py-stats
+pip install -e .
 ```
 
 ## Quick Start
@@ -315,8 +339,8 @@ The code is well-documented with clear mathematical formulas and examples, makin
 
 If you have questions, suggestions, or need help:
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/py-stats/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/py-stats/discussions)
+- **Issues**: [GitHub Issues](https://github.com/RanaEhtashamAli/py-stats/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/RanaEhtashamAli/py-stats/discussions)
 - **Documentation**: This README and function docstrings
 - **Examples**: Check the `examples/` directory for usage demonstrations
 

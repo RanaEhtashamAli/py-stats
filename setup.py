@@ -6,8 +6,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="python-stats",
     version="1.0.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Rana Ehtasham Ali",
+    author_email="ranaehtashamali1@gmail.com",
     description="A pure-Python module providing comprehensive statistics functions",
     long_description=long_description,
     long_description_content_type="text/markdown",

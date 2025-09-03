@@ -102,8 +102,8 @@ from .multivariate import (
 )
 
 __version__ = "2.0.0"
-__author__ = "Your Name"
-__email__ = "your.email@example.com"
+__author__ = "Rana Ehtasham Ali"
+__email__ = "ranaehtashamali1@gmail.com"
 
 __all__ = [
     # Univariate functions

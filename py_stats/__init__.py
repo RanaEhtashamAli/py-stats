@@ -101,7 +101,7 @@ from .multivariate import (
     contingency_coefficient,
 )
 
-__version__ = "2.0.0"
+__version__ = "1.0.1"
 __author__ = "Rana Ehtasham Ali"
 __email__ = "ranaehtashamali1@gmail.com"
 
